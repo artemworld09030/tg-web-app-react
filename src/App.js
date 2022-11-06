@@ -17,8 +17,8 @@ function App() {
     <div className="App">
         <Header />
         <Routes>
-            <Route insex element={<ProductList />}/>
-            <Route path={'form'} element={<Form />}/>
+            <Route path={''} insex element={<ProductList />} />
+            <Route path={'form'} element={<Form />} />
         </Routes>
     </div>
   );
