@@ -10,7 +10,7 @@
     margin-left: auto;
 }
 
-.onClose{
+button{
     padding: 50px 100%;
     background: var(--tg-theme-button-color);
     color: var(--tg-theme-button-text-color);
