@@ -28,6 +28,7 @@ const Form = () => {
                 value={country}
                 onChange={onChangeCounty}
             />
+
             <input
                 className={'input'}
                 type='text'
